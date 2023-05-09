@@ -1,4 +1,3 @@
-<img src="https://github.com/levycamoes/levycamoes/blob/main/me.jpg" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
 ```js
 import Desenvolvedor from 'SeuNick';
 
@@ -16,3 +15,4 @@ class Features extends Desenvolvedor {
 }
 
 ```
+<img src="https://github.com/levycamoes/levycamoes/blob/main/me.jpg" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
