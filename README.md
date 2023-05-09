@@ -1,8 +1,15 @@
 <img src="https://github.com/levycamoes/levycamoes/blob/main/me.jpg" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+  ```js
+import Desenvolvedor from 'SeuNick';
+
+class SobreMim extends Desenvolvedor {
+  nome     = 'Seu nome';
+  area    = 'Sua área';
+  trabalho  = 'Onde trabalha';
+  local = 'Local';
+} 
 </p>
 
 <p align="left">
