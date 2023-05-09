@@ -1,7 +1,7 @@
 <img src="https://github.com/levycamoes/levycamoes/blob/main/me.jpg" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  ```js
+```js
 import Desenvolvedor from 'SeuNick';
 
 class SobreMim extends Desenvolvedor {
@@ -10,6 +10,7 @@ class SobreMim extends Desenvolvedor {
   trabalho  = 'Onde trabalha';
   local = 'Local';
 } 
+```
 </p>
 
 <p align="left">
