@@ -1,17 +1,4 @@
-```js
-import Desenvolvedor from 'SeuNick';
+<img src="https://github.com/levycamoes/levycamoes/assets/98728758/dec4322a-951e-49fe-ad0f-db8185700259" min-width="300px" max-width="300px" width="300px" align="left" alt="Computador iuriCode">
 
-class SobreMim extends Desenvolvedor {
-  nome     = 'Rafael Levy';
-  area    = 'Ciência de Dados';
-  estudo  = 'Universidade de São Paulo';
-  set = 'Ciências Moleculares';
-} 
-
-class Features extends Desenvolvedor {
-  linguagens = 'Python'
-  ferramentas = 'Numpy', 'Matplotlib', 'pandas', 'excel', 'VPython'
-  interesses = 'Ciências', 'Computação', 'Educação', 'Simulações Físicas'
-}
-
-```
+<p align="right">
+  
