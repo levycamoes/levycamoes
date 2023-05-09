@@ -1,16 +1,6 @@
 <img src="https://github.com/levycamoes/levycamoes/blob/main/me.jpg" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-```js
-import Desenvolvedor from 'SeuNick';
-
-class SobreMim extends Desenvolvedor {
-  nome     = 'Seu nome';
-  area    = 'Sua área';
-  trabalho  = 'Onde trabalha';
-  local = 'Local';
-} 
-```
 </p>
 
 <p align="left">
@@ -31,3 +21,14 @@ class SobreMim extends Desenvolvedor {
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-levy-cam%C3%B5es-b533b5211/" /></a>
 
 </p>  
+
+```js
+import Desenvolvedor from 'SeuNick';
+
+class SobreMim extends Desenvolvedor {
+  nome     = 'Seu nome';
+  area    = 'Sua área';
+  trabalho  = 'Onde trabalha';
+  local = 'Local';
+} 
+```
